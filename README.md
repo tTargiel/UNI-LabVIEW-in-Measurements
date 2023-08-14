@@ -2,7 +2,7 @@
 
 This repository features my solved exercises from the **"Application of LabVIEW environment in measurements"** course that I took at University of Wrocław.  
 
-It consists of many useful LabView controlling systems that I created during the semester.  
+It consists of many useful LabView controlling systems, that I created during the semester.  
 I learned how to use shift registers, feedback nodes, how to create loops, conditions, and how to handle different data types - all in LabView environment.  
 
 Below you can find the ones that I liked the most:  
